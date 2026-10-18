@@ -1,2 +1,2 @@
-# ACADEMIX-BPUT
-A BRIDGE BETWEEN THE HR AND STUDENTS
+# AcademiX
+A bridge between HR and students.
